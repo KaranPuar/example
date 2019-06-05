@@ -8,3 +8,6 @@ This is a sample readme file for our GitHub example repo. We're learning Markdow
 
 ## Link Example
 [CodeTime](https://www.codetime.io)
+
+1. Item One
+2. Item Two
